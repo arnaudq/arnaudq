@@ -1,16 +1,14 @@
-## Hi there 👋
+Bonjour, I am Arnaud Quillaud, from Montpellier - France.
 
-<!--
-**arnaudq/arnaudq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work for [Oracle](http://www.oracle.com/) as a software engineer.
 
-Here are some ideas to get you started:
+## Volunteering work
+Having been a remote worker for over 20 years, I sometime need to get out of my cave and meet people. Here are my 2 favorite places:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Montpellier Botanical Garden](https://facmedecine.umontpellier.fr/jardin-des-plantes/) where I am lucky enough to take care of the garden's beehives along with my friends at <a href="https://apis-schola.org">Apis Schola</a>
+- [Le Vieux Biclou](https://vieuxbiclou.org/), Montpellier's DIY bike workshop.
+
+## Publications
+- **[RFC 6578: WebDAV Sync](https://www.rfc-editor.org/info/rfc6578/)** Cyrus Daboo, Arnaud Quillaud
+- **[RFC 8607: Calendaring Extensions to WebDAV (CalDAV): Managed Attachments](https://www.rfc-editor.org/info/rfc8607)** Cyrus Daboo, Arnaud Quillaud, Kenneth Murchison
+
