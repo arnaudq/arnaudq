@@ -1,4 +1,4 @@
-Bonjour, I am Arnaud Quillaud, from Montpellier - France.
+Bonjour, I am Arnaud, from Montpellier - France.
 
 I currently work for [Oracle](http://www.oracle.com/) as a software engineer.
 
